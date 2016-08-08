@@ -1,2 +1,2 @@
-# curso_fis_comp
-Curso 2017-1
+# curso fis compu
+Curso 2017-1 :frog:
